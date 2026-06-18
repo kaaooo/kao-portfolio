@@ -70,12 +70,11 @@ Node.js · TypeScript · discord.js v14 · MongoDB · Groq AI · Express · EJS 
 
 ## ⭐ What Clients Say
 
-> *"Nova built our entire ticket system from scratch and it handles hundreds of users without a single issue. Fast turnaround and great communication."* — **AlphaDragon**
+> *"Nova built our entire ticket system from scratch and it handles hundreds of users without a single issue. Fast turnaround and great communication."* 
 
-> *"The AI auto-responder handles 90% of support questions so my mods can focus on real issues."* — **XyLo**
+> *"The AI auto-responder handles 90% of support questions so my mods can focus on real issues."* — 
 
-> *"Best developer I've worked with on Discord. Clean code, reliable uptime, always goes above expectations."* — **VexNeon**
-
+> *"Best developer I've worked with on Discord. Clean code, reliable uptime, always goes above expectations."* 
 ---
 
 ## ❓ FAQ
